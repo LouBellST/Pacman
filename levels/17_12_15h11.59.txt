@@ -1,0 +1,23 @@
+17_12_15h11.59 280 2
+xxxxxxxxxxxxxxxxxxxxxxx
+xooooooooooxoooooooooox
+xOxxxoxxxxoxoxxxxoxxxOx
+xoxxxoxxxxoxoxxxxoxxxox
+xooooooooooooooooooooox
+xoxxxoxoxxxxxxxoxoxxxox
+xoooooxooooxooooxooooox
+xxxxxoxxxxRxRxxxxoxxxxx
+VVVVxoxRRRRbRRrRxoxVVVV
+xxxxxoxRxxxGxxxRxoxxxxx
+RRRRRoRRxVpbRgxRRoRRRRR
+xxxxxoxRxxxxxxxRxoxxxxx
+VVVVxoxRRRRRRRRRxoxVVVV
+xxxxxoxRxxxxxxxRxoxxxxx
+xooooooooooxoooooooooox
+xoxxxoxxxxoxoxxxxoxxxox
+xOooxooooooRRRRRRRxRRRx
+xxxoxoxoxxxxxxxoxRxRxxx
+xoooooxooooxooooxRRRRRx
+xoxxxxxxxxoxoxxxxxxxxRx
+xooooooooooooooPRRRRRRx
+xxxxxxxxxxxxxxxxxxxxxxx

@@ -1,0 +1,23 @@
+Niveau basique
+xxxxxxxxxxxxxxxxxxxxxxx
+xooooooooooxoooooooooox
+xOxxxoxxxxoxoxxxxoxxxOx
+xoxxxoxxxxoxoxxxxoxxxox
+xooooooooooooooooooooox
+xoxxxoxoxxxxxxxoxoxxxox
+xoooooxooooxooooxooooox
+xxxxxoxxxxRxRxxxxoxxxxx
+VVVVxoxRRRRRRRRRxoxVVVV
+xxxxxoxRxxxGxxxRxoxxxxx
+RRRRRoRRxVprbgxRRoRRRRR
+xxxxxoxRxxxxxxxRxoxxxxx
+VVVVxoxRRRRRRRRRxoxVVVV
+xxxxxoxRxxxxxxxRxoxxxxx
+xooooooooooxoooooooooox
+xoxxxoxxxxoxoxxxxoxxxox
+xOooxooooooPooooooxooOx
+xxxoxoxoxxxxxxxoxoxoxxx
+xoooooxooooxooooxooooox
+xoxxxxxxxxoxoxxxxxxxxox
+xooooooooooooooooooooox
+xxxxxxxxxxxxxxxxxxxxxxx

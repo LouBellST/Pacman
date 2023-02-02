@@ -1,0 +1,23 @@
+17_12_1h56.6 1310 1
+xxxxxxxxxxxxxxxxxxxxxxx
+xooooooooooxoooooooooox
+xOxxxoxxxxoxoxxxxoxxxRx
+xoxxxoxxxxoxoxxxxoxxxRx
+xooooRRRRRRRRRRRRRoooRx
+xoxxxRxoxxxxxxxoxRxxxRx
+xooooRxooooxoRoRxRRRRRx
+xxxxxRxxxxRxoxxxxRxxxxx
+VVVVxRxRRRRoRRRRxRxVVVV
+xxxxxRxRxxxGxxxRxRxxxxx
+RRRRRRRRxVpRbgxRRRRRRRR
+xxxxxoxRxxxxxxxoxoxxxxx
+VVVVxoxRRRRRRRRoxoxVVVV
+xxxxxoxRxxxxxxxrxoxxxxx
+xooooRRRoRRxRooooRoooox
+xoxxxRxxxxRxoxxxxRxxxox
+xOooxRRRRRRRRRRRRRxooOx
+xxxoxoxRxxxxxxxoxRxoxxx
+xoooooxRRRRxooooxPRRRRx
+xoxxxxxxxxRxoxxxxxxxxRx
+xoooooooooRRRRRRRRRRRRx
+xxxxxxxxxxxxxxxxxxxxxxx
